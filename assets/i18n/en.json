@@ -1,0 +1,54 @@
+{
+  "dir": "ltr" ,
+
+  "login": {
+    "login": "Login ",
+    "email": "Email",
+    "password": "password ",
+    "error": "Password must contain more than 4 characters, 1 uppercase letter",
+    "requiredEmail": "email is required",
+    "requiredPassword": "password is required"
+  },
+  "navbar": {
+    "login": "login ",
+    "logout": "logout ",
+    "admin": "admin"
+  },
+  "table": {
+    "fullName": "Full Name ",
+    "email": "Email",
+    "location": "Location",
+    "joined": "Joined",
+    "permissions": "permissions",
+    "edit": "Edit",
+    "update": "Update",
+    "delete": "Delete",
+    "search": "Search by name",
+    "export": "Export",
+    "newUser": " New User"
+  },
+  "user": {
+    "managment": "User Managment "
+  },
+  "option": {
+    "all": "All",
+    "anytime": " anytime",
+    "admin": "Admin",
+    "viewer": "Viewer",
+    "contributer": "Contributer",
+    "date": "Date"
+  },
+  "loading": {
+    "loading": "loading"
+  },
+  "toaster": {
+    "emailPassword": "Email or Password is incorrect",
+    "login": "logged in successfully",
+    "logout": "You have successfully logged out",
+    "newUser":"add user successfully"
+  },
+  "title": {
+    "login": "Login ",
+    "home": "home "
+  }
+}
